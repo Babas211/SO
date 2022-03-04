@@ -1,0 +1,1 @@
+ls | rm a-z A-Z
